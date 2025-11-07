@@ -11,5 +11,3 @@ Copyright 2022 Oregon State University. All rights reserved.
 >*The Chemical Fingerprinting Workflow Software found in this GitHub repository (the "Software") may be freely used for educational and research purposes by non-profit institutions and United States Federal Government agencies only. See license txt file for more detail.*
 >
 > Chemical Fingerprinting Workflow Software by Gerrad Jones
-
-Copyright 2022 Oregon State University. All rights reserved.
