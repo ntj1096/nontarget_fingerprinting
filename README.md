@@ -1,7 +1,9 @@
 # nontarget_fingerprinting
-Public repository of code used for negative-mode data in Joseph et al., 2025: "Discovery of Comprehensive Sets of Chemical Constituents as Markers of PFAS Sources through a Nontarget Screening and Machine Learning Approach"
+Public repository of select code used for negative-mode data in Joseph et al., 2025: "Discovery of Comprehensive Sets of Chemical Constituents as Markers of PFAS Sources through a Nontarget Screening and Machine Learning Approach"
 
-This constituted a modified version of (https://github.com/EcoChem-OSU/Chemical-Fingerprinting).
+Code archive.  Some code components were not included due to data loss during backup migration. 
+
+This constitutes a modified version of (https://github.com/EcoChem-OSU/Chemical-Fingerprinting). 
 
 License
 -------
